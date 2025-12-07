@@ -1,10 +1,10 @@
-Expense Tracker
+Expense Tracker:
 
 Expense Tracker is a simple web application to help users track and manage their daily expenses. Users can add, view, edit, and delete expense records, all organized by categories. The app uses a JSON-Server backend to simulate a database, making it easy to practice full-stack concepts.
 
 ---
 
-**Features**
+**Features** : 
 
    ✅Add new expenses with amount, category, and description.
 
@@ -18,7 +18,7 @@ Expense Tracker is a simple web application to help users track and manage their
 
    ---
 
-**Technologies Used**
+**Technologies Used** :
 
    ✅Frontend: HTML, CSS, JavaScript
 
@@ -31,7 +31,7 @@ Expense Tracker is a simple web application to help users track and manage their
 
 
 <a href="https://drive.google.com/drive/folders/1xsl-C5nc0_A62OO4_SWSPGqJGK_d_Ydh?usp=sharing" target="_blank">
-   Expense Tracker Demo & Code Videos
+   Expense Tracker Demo video & Code Explanation Videos
 </a>
 
 
