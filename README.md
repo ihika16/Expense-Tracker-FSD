@@ -1,6 +1,25 @@
 # Expense-Tracker-FSD
-Expense Tracker is a simple web app that allows users to add, view, and manage their daily expenses easily. It uses HTML, CSS, JavaScript, and a JSON-Server backend to store and display all expense records.
+Expense Tracker is a simple web application to help users track and manage their daily expenses. Users can add, view, edit, and delete expense records, all organized by categories. The app uses a JSON-Server backend to simulate a database, making it easy to practice full-stack concepts.
 
+Features
+
+Add new expenses with amount, category, and description.
+
+View all recorded expenses in a clear table/list format.
+
+Edit or delete existing expenses easily.
+
+Categorize expenses for better organization.
+
+Responsive and user-friendly interface.
+
+Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: JSON-Server
+
+Tools: Node.js, npm, VS Code
 <a href="https://drive.google.com/drive/folders/1xsl-C5nc0_A62OO4_SWSPGqJGK_d_Ydh?usp=sharing" target="_blank">
   Expense Tracker Demo & Code Videos
 </a>
